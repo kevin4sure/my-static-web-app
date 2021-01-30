@@ -15,6 +15,7 @@ const HeaderBarBrand = () => (
       <span className="brand-first">MY</span>
       <span className="brand-second">SHOPPING</span>
       <span className="brand-third">LIST</span>
+      <span className="brand-third">{" "}-KEVIN4SURE</span>
     </NavLink>
   </div>
 );
